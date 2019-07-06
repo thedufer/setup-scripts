@@ -1,0 +1,3 @@
+vmc start termina
+lxc start <container-name>
+lxc exec <container-name> -- sudo -u thedufer bash
